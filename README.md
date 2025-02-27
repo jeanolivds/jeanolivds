@@ -1,16 +1,33 @@
-## Hi there 👋
+## 🚀 Projetos
 
-<!--
-**jeanolivds/jeanolivds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [SQL](https://github.com/jeanoliveirais/cursosql)
+SQL
 
-Here are some ideas to get you started:
+### [Python](https://link-para-seu-projeto-2.com)
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Estatística](https://link-para-seu-projeto-2.com)
+Estatística
+
+### [Dashboards Figma](https://www.figma.com/@jeanoliveirads)
+Figma
+
+## Links Úteis
+
+- [Meu LinkedIn](https://www.linkedin.com/in/jeanoliveirasi/) - Conecte-se comigo no LinkedIn.
+- [Datanauts](https://datanauts.com.br) - Leia meus artigos e posts.
+- [Entre em Contato](mailto:seu-email@example.com) - Envie-me um e-mail.
+
+## Sobre Mim
+
+
+
+## Habilidades
+
+- **Linguagens de Programação:** Python, SQL,  R
+- **Tecnologias:** Django, React, Pandas, etc.
+- **Ferramentas:** Git, Docker, Jenkins, etc.
+
+## Contato
+
+Para mais informações ou para discutir oportunidades de colaboração, não hesite em [entrar em contato](mailto:seu-email@example.com).
