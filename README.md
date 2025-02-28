@@ -1,16 +1,16 @@
 ## 🚀 Projetos
 
-### [SQL](https://github.com/jeanolivds/cursosql)
 SQL
+### [SQL](https://github.com/jeanolivds/cursosql)
 
-### [Python](https://link-para-seu-projeto-2.com)
 Python
+### [Python](https://link-para-seu-projeto-2.com)
 
-### [Estatística](https://link-para-seu-projeto-2.com)
 Estatística
+### [Estatística](https://link-para-seu-projeto-2.com)
 
-### [Dashboards Figma](https://www.figma.com/@jeanoliveirads)
 Figma
+### [Dashboards Figma](https://www.figma.com/@jeanoliveirads)
 
 ## Links Úteis
 
