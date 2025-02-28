@@ -1,6 +1,6 @@
 ## 🚀 Projetos
 
-### [SQL]()
+### [SQL](https://github.com/jeanolivds/cursosql)
 SQL
 
 ### [Python](https://link-para-seu-projeto-2.com)
