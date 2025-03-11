@@ -21,7 +21,7 @@
 
 - **Linguagens de Programação:** Python, SQL,  R
 - **Tecnologias:** Django, React, Pandas, etc.
-- **Ferramentas:** Git, Docker, Jenkins, etc.
+- **Ferramentas:** 
 
 ## Contato
 
